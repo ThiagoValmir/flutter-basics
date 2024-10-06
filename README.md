@@ -1,4 +1,4 @@
-# Flutter Basics - Home Screen Components Demo
+# Flutter Basics - Home Screen
 
 This project is a simple demonstration of how to create a home screen in a Flutter application, showcasing the use of components, models, methods, and layout design.
 
